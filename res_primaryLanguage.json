@@ -1,0 +1,140 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Ilham Abdurrahman. Fictional person for preview purposes :) I'm working with newest front-end frameworks like React and Vue. What you are seeing now is portfolio template from abdramsyah. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Jon Projects",
+        "title": "Web Programming",
+        "years": "05.2018 - present",
+        "mainTech": [
+          "Laravel"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap 4",
+          "MDBootstrap",
+          "Jquery"
+        ],
+        "framework": [
+          "fab fa-react experience-icon"
+        ]
+      },
+      {
+        "company": "Aplikanusa Lintasarta",
+        "title": "Intern",
+        "years": "08.2019 - 10.2019",
+        "mainTech": [
+          "Vue",
+          "Laravel"
+        ],
+        "technologies": [
+          "Ajax",
+          "Laravel",
+          "PHP",
+          "JavaScript"
+        ],
+        "framework": [
+          "fab fa-laravel experience-icon"
+        ]
+      },
+      {
+        "company": "Tekno Pertiwi",
+        "title": "Freelance",
+        "years": "09.2019 - 5.2020",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Ajax",
+          "NodeJs",
+          "Express",
+          "PotgreSql",
+          "Nodemon",
+          "JavaScript"
+          
+        ],
+        "framework": [
+          "fab fa-node experience-icon"
+        ]
+      }
+    ]
+  }

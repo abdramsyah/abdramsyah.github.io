@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Ilham Abdurrahman",
+      "titles": [ "Front-end Developer", "Freelance Web Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/abdramsyah",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/abdramsyah",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "WhatsApp",
+          "url": "https://wa.me/6282230268936",
+          "class": "fab fa-whatsapp"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
